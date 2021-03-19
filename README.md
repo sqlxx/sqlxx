@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on anything
-- 📫 sqlxx@163.com
+- 📫 sqlxx@sina.com
 
 <!---
 sqlxx/sqlxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
